@@ -1,0 +1,230 @@
+.mediaViewInfo {
+	--web-view-name: Work;
+	--web-view-id: Work;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Work;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Work {
+	position: absolute;
+	width: 1000px;
+	height: 1529px;
+	background-color: rgba(255,255,255,1);
+	overflow: visible;
+	--web-view-name: Work;
+	--web-view-id: Work;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Screenshot_125 {
+	position: sticky;
+	width: 1000px;
+	height: 638px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	z-index: 1;
+}
+#Header_ {
+	position: absolute;
+	width: 1000px;
+	height: 462px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	z-index: 1;
+}
+#Rettangolo_3_ {
+	fill: transparent;
+}
+.Rettangolo_3_ {
+	position: absolute;
+	overflow: visible;
+	width: 1000px;
+	height: 462px;
+	left: 0px;
+	top: 0px;
+}
+#Contact_ {
+	opacity: 0.63;
+	left: 618px;
+	top: 23px;
+	position: absolute;
+	overflow: visible;
+	width: 104px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#Work_ {
+	left: 445px;
+	top: 23px;
+	position: absolute;
+	overflow: visible;
+	width: 71px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#Home_ {
+	position: absolute;
+	width: 151px;
+	height: 122px;
+	left: 236px;
+	top: 0px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Index.html;
+	cursor: pointer;
+}
+#Rettangolo_8 {
+	opacity: 0;
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rettangolo_8 {
+	position: absolute;
+	overflow: visible;
+	width: 151px;
+	height: 82px;
+	left: 0px;
+	top: 0px;
+}
+#Home_bc:hover {
+	text-decoration: underline;
+	transition: all .3s ease-out;
+}
+#Home_bc {
+	opacity: 0.63;
+	left: 43px;
+	top: 23px;
+	position: absolute;
+	overflow: visible;
+	width: 81px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+	transition: all .3s ease-out;
+}
+#Raggruppa_1_bc {
+	position: absolute;
+	width: 1000px;
+	height: 891px;
+	left: 0px;
+	top: 638px;
+	overflow: visible;
+	z-index: 2;
+}
+#Rettangolo_5_bd {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rettangolo_5_bd {
+	position: absolute;
+	overflow: visible;
+	width: 1000px;
+	height: 891px;
+	left: 0px;
+	top: 0px;
+}
+#Rettangolo_4_be {
+	fill: rgba(10,7,7,1);
+}
+.Rettangolo_4_be {
+	position: absolute;
+	overflow: visible;
+	width: 176px;
+	height: 68px;
+	left: 428px;
+	top: 724px;
+}
+#CONTACT_bf {
+	left: 450px;
+	top: 736px;
+	position: absolute;
+	overflow: visible;
+	width: 134px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#Linea_1_bg {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Linea_1_bg {
+	overflow: visible;
+	position: absolute;
+	width: 726px;
+	height: 1px;
+	left: 137px;
+	top: 843.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rettangolo_6 {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	width: 840px;
+	height: 552px;
+	left: 34px;
+	top: 58px;
+	overflow: visible;
+}

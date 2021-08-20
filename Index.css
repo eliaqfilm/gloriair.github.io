@@ -1,0 +1,269 @@
+.mediaViewInfo {
+	--web-view-name: Index;
+	--web-view-id: Index;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Index;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Index {
+	position: absolute;
+	width: 1000px;
+	height: 1529px;
+	background-color: rgba(255,255,255,1);
+	overflow: visible;
+	--web-view-name: Index;
+	--web-view-id: Index;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#n_18346165_349309729425539_794 {
+	position: sticky;
+	width: 1000px;
+	height: 638px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	z-index: 1;
+}
+#Header {
+	position: absolute;
+	width: 1000px;
+	height: 462px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	z-index: 1;
+}
+#Rettangolo_3 {
+	fill: transparent;
+}
+.Rettangolo_3 {
+	position: absolute;
+	overflow: visible;
+	width: 1000px;
+	height: 462px;
+	left: 0px;
+	top: 0px;
+}
+#Home {
+	left: 279px;
+	top: 23px;
+	position: absolute;
+	overflow: visible;
+	width: 81px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#Contact {
+	opacity: 0.62;
+	left: 618px;
+	top: 23px;
+	position: absolute;
+	overflow: visible;
+	width: 104px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#ELIA_Q {
+	left: 324px;
+	top: 313px;
+	position: absolute;
+	overflow: visible;
+	width: 314px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 100px;
+	color: rgba(255,255,255,1);
+}
+#Work_n {
+	position: absolute;
+	width: 154px;
+	height: 120px;
+	left: 396px;
+	top: 0px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Work.html;
+	cursor: pointer;
+}
+#Rettangolo_7 {
+	opacity: 0;
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rettangolo_7 {
+	position: absolute;
+	overflow: visible;
+	width: 154px;
+	height: 80px;
+	left: 0px;
+	top: 0px;
+}
+#Work_p:hover {
+	text-decoration: underline;
+	transition: all .3s ease-out;
+}
+#Work_p {
+	opacity: 0.62;
+	left: 49px;
+	top: 23px;
+	position: absolute;
+	overflow: visible;
+	width: 71px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+	transition: all .3s ease-out;
+}
+#Raggruppa_1 {
+	position: absolute;
+	width: 1000px;
+	height: 891px;
+	left: 0px;
+	top: 638px;
+	overflow: visible;
+	z-index: 2;
+}
+#Rettangolo_5 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rettangolo_5 {
+	position: absolute;
+	overflow: visible;
+	width: 1000px;
+	height: 891px;
+	left: 0px;
+	top: 0px;
+}
+#n_18626890_3042321859227786_86 {
+	position: absolute;
+	width: 516px;
+	height: 299px;
+	left: 33px;
+	top: 65px;
+	overflow: visible;
+}
+#Rettangolo_4 {
+	fill: rgba(10,7,7,1);
+}
+.Rettangolo_4 {
+	position: absolute;
+	overflow: visible;
+	width: 176px;
+	height: 68px;
+	left: 428px;
+	top: 480px;
+}
+#CONTACT {
+	left: 450px;
+	top: 492px;
+	position: absolute;
+	overflow: visible;
+	width: 134px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#Lorem_ipsum_dolor_sit_amet_con {
+	left: 583px;
+	top: 104px;
+	position: absolute;
+	overflow: visible;
+	width: 373px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#Linea_1 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Linea_1 {
+	overflow: visible;
+	position: absolute;
+	width: 726px;
+	height: 1px;
+	left: 137px;
+	top: 599.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Unique_style {
+	left: 583px;
+	top: 64px;
+	position: absolute;
+	overflow: visible;
+	width: 176px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
